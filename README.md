@@ -14,8 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<h1 align="center">Hi there, I'm Afreen 👋</h1>
-<h3 align="center">A passionate Software developer from India</h3>
+<h2 align="center">Hi there, I'm Afreen 👋</h2>
+<h3 align="left">A passionate Software developer from India</h3>
 
 <h3 align="left">Connect with me:</h3>
 **afreenansari547@gmail.com**
