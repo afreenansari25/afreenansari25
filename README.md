@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 <h3 align="left">A passionate Software developer from India</h3>
 
 <h3 align="left">Connect with me:</h3>
-**afreenansari547@gmail.com**
+afreenansari547@gmail.com
 <p align="left">
 </p>
 
